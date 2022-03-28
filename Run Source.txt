@@ -1,0 +1,2 @@
+vào world-vision -> cmd trên link thư mục
+cmd-> php artisan serve -> lấy localhost + link (router->web)
